@@ -1,0 +1,10 @@
+0,1,2,3,4
+Highways,,,Non-Highways,
+Mean,170.0,,Mean,216.0
+Standard Deviation,49.0,,Standard Deviation,92.0
+UTL,257.0,,UTL,384.0
+LTL,88.0,,LTL,95.0
+Cp,0.5748,,Cp,0.5235
+Cpu,0.5918,,Cpu,0.6086
+Cpl,0.5578,,Cpl,0.4384
+Cpk,0.5578,,Cpk,0.4384
