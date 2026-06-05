@@ -282,7 +282,8 @@ Monitor Performance Through Control Charts
 
 ---
 
-# 📁 Folder Structure
+<details>
+<summary><strong>📁 Folder Structure</strong></summary>
 
 ```text
 traffic-quality-analytics-platform/
@@ -316,6 +317,8 @@ traffic-quality-analytics-platform/
 ├── LICENSE
 └── README.md
 ```
+
+</details>
 
 ---
 
@@ -403,7 +406,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 # 🎓 Academic Foundation
 
-This project originates from research conducted during the Master of Engineering (Quality Systems Engineering) program at Concordia University and has been modernized into a portfolio-grade analytics platform while preserving the original Six Sigma and traffic quality improvement objectives.
+This project originates from research conducted during the ****Master of Engineering (Quality Systems Engineering)** program at **Concordia University** and has been modernized into a portfolio-grade analytics platform while preserving the original Six Sigma and traffic quality improvement objectives.
 
 ---
 
